@@ -1,2 +1,1 @@
-# devmap-web
- Aplicação Web SPA desenvolvida durante a semana omnistack 10
+# DevMap - Web
