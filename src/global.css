@@ -8,14 +8,14 @@
 }
 
 html, body, #root {
-    height: 100%;   
+    height: 100%;
 }
 
 body {
     background: #E5E6F0;
-    -webkit-font-smooothing: atialiased;
+    -webkit-font-smoothing: antialiased;
 }
 
-body, inpurt, button {
+body, input, button {
     font-family: Roboto, sans-serif;
 }
